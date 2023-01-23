@@ -154,7 +154,8 @@ td,tr {
   padding: 10px;
 }
 .widget{
-  margin-left: 20px;
+  padding:20px;
+  
 }
 .pbutton{
   background-color:rgb(6, 184, 149); ;
