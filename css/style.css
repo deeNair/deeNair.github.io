@@ -1,0 +1,161 @@
+h2,h3 { 
+  padding: 20px;
+  color:rgb(6, 184, 149);
+  font-family:sans-serif;
+  }
+  h1{
+    padding: 20px;
+    color:whitesmoke;
+    font-family: sans-serif;
+  }
+  h5{
+    color:rgb(6, 184, 149);
+    font-family: sans-serif;
+  }
+  p{
+    padding: 20px;
+    color:whitesmoke;
+    font-family:sans-serif;
+  }
+body{
+  background-color: black;
+}
+
+a{
+  color:rgb(6, 184, 149); ;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+  
+.container{
+  min: height 100vh;
+  width:100%;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+}
+img{
+  width:50vh;
+  height:60vh;
+  display:block;
+  object-fit: cover;
+  object-position: center;
+   margin-top: 100px;
+   border: 4px solid rgb(6, 184, 149);
+}
+.head{
+  background-color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+ul{
+  color:whitesmoke;
+  font-family: sans-serif;
+  margin-left: 50px;
+  text-align: center;
+  padding-right: 20px;
+  padding-top: 40px;
+}
+.list{
+ 
+  border: 4px solid rgb(6, 184, 149);
+  border-width: 60px;
+  
+ }
+
+td,tr {
+  border: 1px solid;
+  color:whitesmoke;
+  font-family: sans-serif;
+  padding: 20px;
+ 
+}
+
+.tab{
+  border: 4px solid rgb(6, 184, 149);
+  border-width:60px; 
+  
+}
+.table{
+  padding: 35px;
+}
+.story{
+  display: flex;
+  background-color: black;
+  align-items:stretch;
+  border: 8px solid black;
+  
+}
+.back{
+  background-color: rgb(213, 210, 210);
+}
+  
+.media{
+  display: flex;
+  justify-content: space-between;
+}
+.foot{
+  
+  background-color: black;
+  
+}
+.contact form{
+  font-family: sans-serif;
+  position: relative;
+  margin-left:30px;
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  border: 2px solid rgb(6, 184, 149);
+  padding:20px; 
+  
+}
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-github{
+  background: #0099CC;
+  color: white;
+
+}
+#message{
+  background:white;
+  margin:0px 0px 18px;
+  padding:12px 20px 30px 15px ;
+
+}
+.sub{
+  margin-top: 20px;
+  padding: 10px;
+}
+.widget{
+  margin-left: 20px;
+}
+.pbutton{
+  background-color:rgb(6, 184, 149); ;
+}
